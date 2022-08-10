@@ -1,0 +1,198 @@
+{
+  "stats": {
+    "suites": 4,
+    "tests": 9,
+    "passes": 0,
+    "pending": 0,
+    "failures": 9,
+    "start": "2022-08-09T20:43:57.949Z",
+    "end": "2022-08-09T20:43:58.137Z",
+    "duration": 188
+  },
+  "tests": [
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: saturdayFun is not defined\n    at Context.<anonymous> (test/indexTest.js:4:14)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "saturdayFun is not defined"
+      }
+    },
+    {
+      "title": "uses the default activity 'roller-skate' when no arguments are passed",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified uses the default activity 'roller-skate' when no arguments are passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: saturdayFun is not defined\n    at Context.<anonymous> (test/indexTest.js:8:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "saturdayFun is not defined"
+      }
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified permits the default activity to be overriden",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: saturdayFun is not defined\n    at Context.<anonymous> (test/indexTest.js:12:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "saturdayFun is not defined"
+      }
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines mondayWork function expression as specified function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: mondayWork is not defined\n    at Context.<anonymous> (test/indexTest.js:18:14)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "mondayWork is not defined"
+      }
+    },
+    {
+      "title": "uses the default activity 'go to the office' when no arguments are passed",
+      "fullTitle": "index.js defines mondayWork function expression as specified uses the default activity 'go to the office' when no arguments are passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: mondayWork is not defined\n    at Context.<anonymous> (test/indexTest.js:22:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "mondayWork is not defined"
+      }
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines mondayWork function expression as specified permits the default activity to be overriden",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: mondayWork is not defined\n    at Context.<anonymous> (test/indexTest.js:26:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "mondayWork is not defined"
+      }
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: wrapAdjective is not defined\n    at Context.<anonymous> (test/indexTest.js:32:14)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "wrapAdjective is not defined"
+      }
+    },
+    {
+      "title": "when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: wrapAdjective is not defined\n    at Context.<anonymous> (test/indexTest.js:36:20)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "wrapAdjective is not defined"
+      }
+    },
+    {
+      "title": "when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: wrapAdjective is not defined\n    at Context.<anonymous> (test/indexTest.js:42:20)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "wrapAdjective is not defined"
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: saturdayFun is not defined\n    at Context.<anonymous> (test/indexTest.js:4:14)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "saturdayFun is not defined"
+      }
+    },
+    {
+      "title": "uses the default activity 'roller-skate' when no arguments are passed",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified uses the default activity 'roller-skate' when no arguments are passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: saturdayFun is not defined\n    at Context.<anonymous> (test/indexTest.js:8:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "saturdayFun is not defined"
+      }
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines saturdayFun function declaration as specified permits the default activity to be overriden",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: saturdayFun is not defined\n    at Context.<anonymous> (test/indexTest.js:12:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "saturdayFun is not defined"
+      }
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines mondayWork function expression as specified function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: mondayWork is not defined\n    at Context.<anonymous> (test/indexTest.js:18:14)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "mondayWork is not defined"
+      }
+    },
+    {
+      "title": "uses the default activity 'go to the office' when no arguments are passed",
+      "fullTitle": "index.js defines mondayWork function expression as specified uses the default activity 'go to the office' when no arguments are passed",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: mondayWork is not defined\n    at Context.<anonymous> (test/indexTest.js:22:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "mondayWork is not defined"
+      }
+    },
+    {
+      "title": "permits the default activity to be overriden",
+      "fullTitle": "index.js defines mondayWork function expression as specified permits the default activity to be overriden",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: mondayWork is not defined\n    at Context.<anonymous> (test/indexTest.js:26:7)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "mondayWork is not defined"
+      }
+    },
+    {
+      "title": "function exists",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification function exists",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: wrapAdjective is not defined\n    at Context.<anonymous> (test/indexTest.js:32:14)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "wrapAdjective is not defined"
+      }
+    },
+    {
+      "title": "when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '*' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: wrapAdjective is not defined\n    at Context.<anonymous> (test/indexTest.js:36:20)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "wrapAdjective is not defined"
+      }
+    },
+    {
+      "title": "when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "fullTitle": "index.js defines wrapAdjective function according to the specification when initialized with '||' creates a function that, when called, wraps an adjective in a highlight",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: wrapAdjective is not defined\n    at Context.<anonymous> (test/indexTest.js:42:20)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "wrapAdjective is not defined"
+      }
+    }
+  ],
+  "passes": []
+}
